@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Full Stack Development .
 - 💼 &nbsp; Working on personal projects.
 - 🌱 &nbsp; Learning more about , web Design, front end, technologies and back end .
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -36,7 +36,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jhonatan-cenepo-borbor-029a6a59/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cenepo%20Borbor-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/cb.jhonatan/?hl=es"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cb.jhonatan/?hl=es-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jhonatancenepob@hotmail.com."><img alt="Email" src="https://img.shields.io/badge/Email-jhonatancenepob@hotmail.com-blue?style=flat-square&logo=hotmail"></a>
 </p>
 
