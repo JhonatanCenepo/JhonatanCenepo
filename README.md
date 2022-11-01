@@ -3,9 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Development .
+- 🎓 &nbsp; I'm a Full stack development student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 💼 &nbsp; Working on personal projects.
-- 🌱 &nbsp; Learning more about , web Design, front end, technologies and back end .
 - ✍️ &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
