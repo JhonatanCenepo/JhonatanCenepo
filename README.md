@@ -1,7 +1,7 @@
 <h2> Hello! I'm Jhonatan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-   ⭐ &nbsp; I am a Bachelor in Business Administration, but I love technology. That's why I want to follow my dreams of creating solutions through code.<br>If you can dream it, you can create it.
+   ⭐ &nbsp; I am a Full Stack Developer Junior. I love technology. That's why I want to follow my dreams of creating solutions through code.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I'm a Full stack development student who is passionate about writing code, solving problems, automating stuff, and building software.
@@ -24,7 +24,6 @@
 
 
 - 🛢 &nbsp;
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - ⚙️ &nbsp;
