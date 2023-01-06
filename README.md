@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I'm a Full stack development student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 💼 &nbsp; Working on personal projects.
-- ✍️ &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- ✍️ &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MySQL.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,7 +24,7 @@
 
 
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
